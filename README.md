@@ -15,6 +15,7 @@ An interactive web app where the aim is to monitor and keep the jelly-critter's 
 - Multiple theme/creature/music customizations 
 - JellyFrog will give you a sweet message when its health and mood meters are full for a certain time elapsed as well as reactions for being neglected
 - If the creature is well kept it evolves
+  
 Tools: javascript, html, css 
 
 # Timeline: When do you plan to work on certain portions of your project, and in what order? What work will you aim to complete by certain checkpoints? How will you and your team split up the work? Will your team be setting up regular meetings? If so, will they be virtual or in-person?
